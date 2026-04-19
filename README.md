@@ -57,6 +57,14 @@ Here are a few projects I'm proud of. You can find more in my repositories!
 
 ---
 
+### 🌱 Currently Learning
+
+I'm always looking to improve my skills and stay current with industry trends. Right now, I'm focused on:
+
+-   **Deepening my expertise in TypeScript** for building more robust and scalable applications.
+-   **Exploring advanced state management** in React with libraries like Redux Toolkit.
+-   **Learning the fundamentals of CI/CD** to better understand automated testing and deployment pipelines.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AtoosaEbrahimabadi&show_icons=true&theme=dark" alt="Atoosa's GitHub Stats"/>
 </p>
